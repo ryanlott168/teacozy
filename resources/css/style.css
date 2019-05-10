@@ -85,7 +85,6 @@ header nav a {
 
 .teas {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -129,4 +128,16 @@ header nav a {
   width: 300px;
   background-color: black;
   margin-right: 40px;
+}
+
+/* Footer Section */
+
+.contact {
+  text-align: center;
+  height: 200px;
+}
+
+.copyright {
+  text-align: left;
+  margin-left: 20px;
 }
