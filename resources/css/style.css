@@ -56,7 +56,7 @@ header nav a {
   justify-content: center;
 }
 
-.mission {
+#mission {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -66,20 +66,20 @@ header nav a {
   height: 700px;
 }
 
-.mission .text-content {
+#mission .text-content {
   width: 100%;
   background-color: black;
 }
 
 /* Tea of the Month */
 
-.monthly-tea {
+#monthly-tea {
   margin: 50px auto;
   width: 1000px;
   text-align: center;
 }
 
-.monthly-tea .text-content {
+#monthly-tea .text-content {
   width: 100%;
 }
 
@@ -103,7 +103,7 @@ header nav a {
 
 /* Locations */
 
-.location-section {
+#location-section {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -114,9 +114,10 @@ header nav a {
   height: 500px;
 }
 
-.location-section h2 {
+#location-section h2 {
   margin-bottom: 15px;
 }
+
 .locations {
   display: flex;
   flex-direction: row;
