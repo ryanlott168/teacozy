@@ -74,6 +74,7 @@ header nav a {
 /* Tea of the Month */
 
 #monthly-tea {
+  padding-top: 80px;
   margin: 50px auto;
   width: 1000px;
   text-align: center;
